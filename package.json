@@ -1,0 +1,24 @@
+{
+  "name": "fluent-date",
+  "version": "1.0.0",
+  "description": "Fluent relative time/date, duration formatter with Chinese support",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinwchn/fluent-date.git"
+  },
+  "keywords": [],
+  "author": "kevinwchn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinwchn/fluent-date/issues"
+  },
+  "homepage": "https://github.com/kevinwchn/fluent-date#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
