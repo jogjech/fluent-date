@@ -1,11 +1,13 @@
 {
   "name": "fluent-date",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Fluent relative time/date, duration formatter with Chinese support",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
-    "build": "tsc -p ."
+    "build": "tsc -p .",
+    "test-ts": "tsc tst/ts/test.ts && node tst/ts/test.js",
+    "test-js": "node tst/js/test.js"
   },
   "repository": {
     "type": "git",
