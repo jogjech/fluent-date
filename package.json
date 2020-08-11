@@ -20,5 +20,8 @@
   "homepage": "https://github.com/kevinwchn/fluent-date#readme",
   "devDependencies": {
     "typescript": "^3.9.7"
-  }
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }
