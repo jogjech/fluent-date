@@ -13,7 +13,14 @@
     "type": "git",
     "url": "git+https://github.com/kevinwchn/fluent-date.git"
   },
-  "keywords": [],
+  "keywords": [
+    "time",
+    "ago",
+    "relative",
+    "format",
+    "chinese",
+    "multi-language"
+  ],
   "author": "kevinwchn",
   "license": "ISC",
   "bugs": {
